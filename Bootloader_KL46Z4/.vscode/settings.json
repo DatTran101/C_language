@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mkl46z4_systemtick.h": "c",
+        "mkl46z4.h": "c",
+        "stdbool.h": "c",
+        "boot.h": "c",
+        "compare": "c",
+        "type_traits": "c"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mkl46z4_systemtick.h": "c",
+        "mkl46z4.h": "c"
+    }
+}
